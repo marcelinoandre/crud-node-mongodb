@@ -1,0 +1,11 @@
+{
+  "name": "crud-nodejs-mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:marcelinoandre/crud-node-mongodb.git",
+  "author": "Andre Marcelino <marcelinoandre@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.10.0"
+  }
+}
